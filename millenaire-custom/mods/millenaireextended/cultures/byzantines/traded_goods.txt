@@ -1,0 +1,17 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation
+
+//Minecraft
+coal,10,4,0,80,8,false,,0
+gold,400,30,0,8,350,false,,0
+dye_blue,100,16,0,16,90,false,,0
+redstone,80,3,0,32,70,false,,0
+diamond,4096,50,0,4,3000,false,,0
+emerald,3000,45,0,2,98,false,,0
+quartz,20,6,0,16,18,false,,0
+
+//Tinker's Construct
+cobaltingot,3000,120,0,0,90,false,,0
+arditeingot,4000,140,0,0,90,false,,0
+manyullyningot,10000,400,0,0,180,false,,0
+knightslimeingot,60,50,0,0,55,false,,0
+pigironingot,58,47,0,0,52,false,,0
